@@ -1,0 +1,63 @@
+
+body {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.jumbotron{
+
+	text-align:center;
+
+}
+.row{
+
+	text-align:center;
+
+}
+
+.row h2{
+	color: #d9534f;
+}
+
+.container h1{
+
+	text-align:center;
+	color: #337ab7;
+}
+
+.faq{
+	
+	font-family:  'Arvo';
+	font-size: 50px;
+	color:#337ab7;
+	font-weight: normal;
+
+}
+
+.questions{
+
+	font-size:25px;
+	color:#d9534f;
+	font-weight:500px ;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.answers{
+
+	font-size: 20px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+		}
+
+.ans{
+	color:#337ab7;
+	font-size:22px;
+	font-weight: 400px;
+}
+
+#faq_line{
+
+	border-color: #337ab7; 
+	margin-top: 10px;
+	
+}
